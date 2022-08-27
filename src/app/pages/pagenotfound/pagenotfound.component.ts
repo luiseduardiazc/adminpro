@@ -2,10 +2,10 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-notpagefound',
-  templateUrl: './notpagefound.component.html',
-  styleUrls: ['./notpagefound.component.css']
+  templateUrl: './pagenotfound.component.html',
+  styleUrls: ['./pagenotfound.component.css']
 })
-export class NotpagefoundComponent implements OnInit {
+export class PageNotFoundComponent implements OnInit {
 
   constructor() { }
 
