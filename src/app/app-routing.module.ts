@@ -5,7 +5,7 @@ import { RegisterComponent } from './auth/register/register.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { Grafica1Component } from './pages/grafica1/grafica1.component';
 import { HomeComponent } from './pages/home/home.component';
-import { PageNotFoundComponent } from './pages/pagenotfound/pagenotfound.component';
+import { PageNotFoundComponent } from './pagenotfound/pagenotfound.component';
 import { ProgressComponent } from './pages/progress/progress.component';
 
 const routes: Routes = [
